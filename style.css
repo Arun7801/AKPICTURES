@@ -1,0 +1,860 @@
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  background: #000000;
+  height: Infinityrem;
+  position: relative;
+  overflow: hidden;
+}
+._7435071-3647367-1 {
+  padding: Infinityrem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: NaNrem;
+  top: NaNrem;
+  overflow: hidden;
+  filter: blur(Infinityrem);
+}
+.background {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: NaNrem;
+  top: NaNrem;
+  overflow: visible;
+}
+.objects {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: NaNrem;
+  top: NaNrem;
+  overflow: visible;
+}
+.frame-33 {
+  display: flex;
+  flex-direction: column;
+  gap: Infinityrem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: Infinityrem;
+  position: absolute;
+  left: NaNrem;
+  top: Infinityrem;
+}
+.frame-29 {
+  background: #000000;
+  padding: Infinityrem Infinityrem Infinityrem Infinityrem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-26 {
+  display: flex;
+  flex-direction: row;
+  gap: Infinityrem;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: Infinityrem;
+  position: relative;
+}
+.frame-2 {
+  display: flex;
+  flex-direction: column;
+  gap: NaNrem;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.ak-01-1 {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+  overflow: visible;
+}
+.frame-27 {
+  display: flex;
+  flex-direction: row;
+  gap: NaNrem;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.ak-pitures {
+  color: #ffffff;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 400;
+  position: relative;
+}
+.frame-28 {
+  display: flex;
+  flex-direction: row;
+  gap: Infinityrem;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: Infinityrem;
+  position: relative;
+}
+.frame-17 {
+  display: flex;
+  flex-direction: column;
+  gap: Infinityrem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: Infinityrem;
+  position: relative;
+}
+.home-landing-pages {
+  display: flex;
+  flex-direction: column;
+  gap: NaNrem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: Infinityrem;
+  position: relative;
+}
+.frame-13 {
+  display: flex;
+  flex-direction: row;
+  gap: Infinityrem;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: Infinityrem;
+  position: relative;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 400;
+  position: relative;
+}
+.frame-14 {
+  display: flex;
+  flex-direction: column;
+  gap: Infinityrem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: Infinityrem;
+  position: relative;
+}
+.group-1 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: Infinityrem;
+  position: static;
+}
+.rectangle-2 {
+  background: #ffffff;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: NaNrem;
+  top: NaNrem;
+}
+.rectangle-3 {
+  background: var(--miscellaneous-keyboard-accessory-bar-selection, #ebedf0);
+  opacity: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: NaNrem;
+  top: NaNrem;
+}
+.frame-18 {
+  display: flex;
+  flex-direction: column;
+  gap: Infinityrem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: Infinityrem;
+  position: relative;
+}
+.frame-15 {
+  display: flex;
+  flex-direction: column;
+  gap: NaNrem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: Infinityrem;
+  position: relative;
+}
+.frame-19 {
+  display: flex;
+  flex-direction: column;
+  gap: Infinityrem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: Infinityrem;
+  position: relative;
+}
+.frame-16 {
+  display: flex;
+  flex-direction: column;
+  gap: NaNrem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: Infinityrem;
+  position: relative;
+}
+.frame-31 {
+  padding: NaNrem Infinityrem NaNrem Infinityrem;
+  display: flex;
+  flex-direction: column;
+  gap: Infinityrem;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-25 {
+  padding: Infinityrem;
+  display: flex;
+  flex-direction: row;
+  gap: Infinityrem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: Infinityrem;
+  position: relative;
+}
+.frame-23 {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+}
+.frame-24 {
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: NaNrem;
+  top: NaNrem;
+}
+.mask-group {
+  height: auto;
+  position: absolute;
+  left: NaNrem;
+  top: NaNrem;
+  overflow: visible;
+}
+.ellipse-3 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 0, 153, 1) 0%,
+    rgba(171, 13, 245, 1) 100%
+  );
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.arunkumar {
+  padding: Infinityrem;
+  display: flex;
+  flex-direction: column;
+  gap: Infinityrem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: Infinityrem;
+  position: relative;
+  overflow: hidden;
+}
+.frame-242 {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+}
+.frame-22 {
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: NaNrem;
+  top: NaNrem;
+}
+.hi-i-am {
+  color: #000000;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 400;
+  position: absolute;
+  left: NaNrem;
+  top: NaNrem;
+}
+.frame-21 {
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: NaNrem;
+  top: Infinityrem;
+}
+.arunkumar-k {
+  color: #000000;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 400;
+  position: absolute;
+  left: NaNrem;
+  top: NaNrem;
+}
+.frame-43 {
+  padding: Infinityrem Infinityrem Infinityrem Infinityrem;
+  display: flex;
+  flex-direction: column;
+  gap: Infinityrem;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-42 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-41 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: Infinityrem;
+  position: relative;
+  overflow: hidden;
+}
+.oil-painting-of-a-designer-in-home-studio {
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: -Infinityrem;
+  top: -Infinityrem;
+  object-fit: cover;
+}
+.frame-34 {
+  background: linear-gradient(
+    180deg,
+    rgba(219, 0, 255, 1) 0%,
+    rgba(255, 6, 185, 1) 100%
+  );
+  border-radius: Infinityrem;
+  padding: Infinityrem Infinityrem Infinityrem Infinityrem;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+}
+.brand-identity-design-crafting-logos-color-schemes-and-visual-elements-that-define-your-brand-s-personality-and-message {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+}
+.brand-identity-design-crafting-logos-color-schemes-and-visual-elements-that-define-your-brand-s-personality-and-message-span {
+  color: #000000;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 400;
+}
+.brand-identity-design-crafting-logos-color-schemes-and-visual-elements-that-define-your-brand-s-personality-and-message-span2 {
+  color: #000000;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 400;
+}
+.brand-identity-design-crafting-logos-color-schemes-and-visual-elements-that-define-your-brand-s-personality-and-message-span3 {
+  color: #000000;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 400;
+}
+.frame-40 {
+  margin: -Infinityrem 0 0 0;
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+  overflow: hidden;
+}
+.frame-35 {
+  background: linear-gradient(
+    180deg,
+    rgba(219, 0, 255, 1) 0%,
+    rgba(255, 6, 185, 1) 100%
+  );
+  border-radius: Infinityrem;
+  padding: Infinityrem Infinityrem Infinityrem Infinityrem;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: -Infinityrem;
+  top: Infinityrem;
+}
+.print-design-designing-business-cards-brochures-flyers-posters-and-more-ensuring-your-printed-materials-stand-out {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+}
+.print-design-designing-business-cards-brochures-flyers-posters-and-more-ensuring-your-printed-materials-stand-out-span {
+  color: #000000;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 400;
+}
+.print-design-designing-business-cards-brochures-flyers-posters-and-more-ensuring-your-printed-materials-stand-out-span2 {
+  color: #000000;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 400;
+}
+.creating-custom-brand-design-or-branding {
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: Infinityrem;
+  top: NaNrem;
+  object-fit: cover;
+}
+.frame-39 {
+  margin: -Infinityrem 0 0 0;
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+  overflow: hidden;
+}
+.developing-a-ux-ui-design-on-smartphone {
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: -Infinityrem;
+  top: NaNrem;
+  object-fit: cover;
+}
+.frame-36 {
+  background: linear-gradient(
+    180deg,
+    rgba(219, 0, 255, 1) 0%,
+    rgba(255, 6, 185, 1) 100%
+  );
+  border-radius: Infinityrem;
+  padding: Infinityrem Infinityrem Infinityrem Infinityrem;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+}
+.digital-design-creating-web-graphics-social-media-assets-and-digital-advertisements-that-enhance-your-online-presence {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+}
+.digital-design-creating-web-graphics-social-media-assets-and-digital-advertisements-that-enhance-your-online-presence-span {
+  color: #000000;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 400;
+}
+.digital-design-creating-web-graphics-social-media-assets-and-digital-advertisements-that-enhance-your-online-presence-span2 {
+  color: #000000;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 400;
+}
+.frame-38 {
+  margin: -Infinityrem 0 0 0;
+  padding: Infinityrem;
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+  overflow: hidden;
+}
+.frame-37 {
+  background: linear-gradient(
+    180deg,
+    rgba(219, 0, 255, 1) 0%,
+    rgba(255, 6, 185, 1) 100%
+  );
+  border-radius: Infinityrem;
+  padding: Infinityrem Infinityrem Infinityrem Infinityrem;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: -Infinityrem;
+  top: Infinityrem;
+}
+.illustration-from-custom-illustrations-to-infographics-i-bring-creativity-and-uniqueness-to-every-project {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+}
+.illustration-from-custom-illustrations-to-infographics-i-bring-creativity-and-uniqueness-to-every-project-span {
+  color: #000000;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 400;
+}
+.illustration-from-custom-illustrations-to-infographics-i-bring-creativity-and-uniqueness-to-every-project-span2 {
+  color: #000000;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 400;
+}
+.designer-illustrator-girl-working-at-her-desk-on-a-tablet {
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: Infinityrem;
+  top: Infinityrem;
+  object-fit: cover;
+}
+.frame-63 {
+  padding: Infinityrem Infinityrem Infinityrem Infinityrem;
+  display: flex;
+  flex-direction: row;
+  gap: Infinityrem;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow-x: auto;
+}
+.frame-53 {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+}
+.frame-52 {
+  background: #d9d9d9;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: NaNrem;
+  top: NaNrem;
+  overflow: hidden;
+}
+.untitled-112368-01 {
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: NaNrem;
+  top: -Infinityrem;
+  object-fit: cover;
+}
+.frame-51 {
+  background: rgba(255, 255, 255, 0.5);
+  opacity: 0;
+  padding: Infinityrem;
+  display: flex;
+  flex-direction: column;
+  gap: Infinityrem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: NaNrem;
+  top: Infinityrem;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+  overflow: hidden;
+}
+.frame-49 {
+  display: flex;
+  flex-direction: row;
+  gap: Infinityrem;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.designs-world {
+  color: #000000;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 400;
+  position: relative;
+}
+.frame-50 {
+  display: flex;
+  flex-direction: row;
+  gap: Infinityrem;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.brand-app-design-profile {
+  color: #000000;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 400;
+  position: relative;
+}
+.frame-55 {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+  overflow: hidden;
+}
+.frame-522 {
+  background: #d9d9d9;
+  display: flex;
+  flex-direction: row;
+  gap: Infinityrem;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: NaNrem;
+  top: NaNrem;
+  overflow: hidden;
+}
+.looq-x-01 {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+  object-fit: cover;
+}
+.frame-56 {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+}
+.coffee-mouck-up-copy {
+  width: Infinityrem;
+  height: Infinityrem;
+  position: absolute;
+  left: calc(50% - Infinityrem);
+  top: calc(50% - Infinityrem);
+  object-fit: cover;
+}
+.frame-58 {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+}
+.soil {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+  object-fit: cover;
+}
+.frame-57 {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+}
+.frame-523 {
+  background: #d9d9d9;
+  padding: Infinityrem NaNrem Infinityrem NaNrem;
+  display: flex;
+  flex-direction: row;
+  gap: Infinityrem;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: NaNrem;
+  top: NaNrem;
+  overflow: hidden;
+}
+.green {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+  object-fit: cover;
+}
+.frame-59 {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+}
+.chips-03-01 {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+  object-fit: cover;
+}
+.frame-60 {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+}
+.greenland {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+  object-fit: cover;
+}
+.frame-62 {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+}
+.data-analysis {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+  object-fit: cover;
+}
+.frame-61 {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+}
+.nike {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+  object-fit: cover;
+}
+.frame-46 {
+  padding: Infinityrem Infinityrem Infinityrem Infinityrem;
+  display: flex;
+  flex-direction: column;
+  gap: Infinityrem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-45 {
+  display: flex;
+  flex-direction: row;
+  gap: Infinityrem;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.ready-to-elevate-your-brand-or-project-with-exceptional-design-contact-me-today-to-discuss-your-ideas-goals-and-how-i-can-help-bring-them-to-life-through-innovative-and-impactful-design-solutions {
+  color: #ffffff;
+  text-align: left;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: Infinityrem;
+  font-weight: 400;
+  position: relative;
+}
+.frame-44 {
+  display: flex;
+  flex-direction: row;
+  gap: Infinityrem;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+  overflow: visible;
+}
+.group2 {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+  overflow: visible;
+}
+.group3 {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+  overflow: visible;
+}
+.group4 {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+  overflow: visible;
+}
+.group5 {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+  overflow: visible;
+}
+.group6 {
+  flex-shrink: 0;
+  width: Infinityrem;
+  height: Infinityrem;
+  position: relative;
+  overflow: visible;
+}
